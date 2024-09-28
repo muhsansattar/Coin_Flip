@@ -2,33 +2,82 @@
 
 ## Coin Flip
 
-Coin Flip is a **decentralized multiplayer blockchain game**, in which users must bet more than $5 of testnet BNB to be able to play against each other. You can create your own game (you can set a bet as big as you want) and other people will be able to join the game you have created. Users can also join any available games created by other people. After the game is finished winner gets the prize. 
+Welcome to the Coin Flip application! This decentralized application (dApp) allows users to participate in a coin-flipping game where the winner is determined using verifiable randomness.
+
 
 Please leave a ⭐ if you like it.
 
 ![Game Preview](./game-preview.png)
 
-## Try It Out
-You can try it out yourself in [live demo](https://projects.tijan.dev/coin-flip) on BNB testnet. You can get testnet BNB to be able to test it [here](https://testnet.binance.org/faucet-smart).
+## Features
 
-If you find any **errors** ⛔, please report them to [errors@tijan.dev](mailto:errors@tijan.dev) thanks 🙏.
+- Users can flip a coin with a chance to win rewards.
+- Winner determination using Chainlink VRF ensures randomness and fairness.
+- User authentication via Moralis for a secure experience.
+- Intuitive UI components provided by Web3UIKit for an engaging user experience.
 
-## Technologies
-Technologies used in this project:
-- [Hardhat](https://hardhat.org/) for smart contracts
-- [Chainlink](https://chain.link) for getting VRF to determine winner in decentralized maner
-- [React](https://reactjs.org/)
-- [Moralis](https://moralis.io/) for authentication
-- [Web3UIKit](https://github.com/web3ui/web3uikit) for UI components
+## Technologies Used
 
-**Smart contract source code is published [here](https://github.com/0xTijan/coin-flip-contract).**
+This project utilizes the following technologies:
 
-## About Me
-Hi! 👋 I'm Tijan, passionate **blockchain developer** from Slovenia. Take a look at my [portfolio](https://tijan.dev).
+- **[Hardhat](https://hardhat.org/)**: A development environment for compiling, deploying, and testing smart contracts.
+- **[Chainlink](https://chain.link)**: Provides Verifiable Random Function (VRF) to determine the winner in a decentralized manner.
+- **[React](https://reactjs.org/)**: A JavaScript library for building user interfaces.
+- **[Moralis](https://moralis.io/)**: Used for user authentication and managing user sessions.
+- **[Web3UIKit](https://github.com/web3ui/web3uikit)**: A library for UI components designed for web3 applications.
 
-You can get in touch with me through my [website](https://tijan.dev) or contact me on [twitter](https://twitter.com/0xTijan).
+## 🌐 Socials:
 
-Do you like my work? You can support me by donating to this address: 0xC4C6A0bc6648a4F343bd86D7C48C9967530fbB48
+[![Upwork](https://img.shields.io/badge/upwork-%2230175C2.svg?logo=Upwork&logoColor=green)](https://www.upwork.com/freelancers/~01b8262a0ffa2f4860)
+[![fiverr](https://img.shields.io/badge/fiverr-%230769AD.svg?logo=fiverr&logoColor=green)](https://www.fiverr.com/gold_medalist?source=gig_page)
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+## 💻 Tech Stack:
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=white)
+![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=Next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux Thunk](https://img.shields.io/badge/Redux_Thunk-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![Redux-Toolkit](https://img.shields.io/badge/Redux_Toolkit-%23764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-%23F3B71B.svg?style=for-the-badge&logo=React&logoColor=white)
+![Formik](https://img.shields.io/badge/Formik-%2361DAFB.svg?style=for-the-badge&logo=Formik&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![HTML](https://img.shields.io/badge/XHTML-%23F58025.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS/CSS3](https://img.shields.io/badge/CSS/CSS3-%231572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+![SASS/LESS](https://img.shields.io/badge/SASS/LESS-%23CC6699.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=Bootstrap&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material_UI-%231976D2.svg?style=for-the-badge&logo=Material-UI&logoColor=white)
+![AntD](https://img.shields.io/badge/AntD-%230170FE.svg?style=for-the-badge&logo=Ant-Design&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white)
+![Node JS](https://img.shields.io/badge/Node_JS-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+![Nest.js](https://img.shields.io/badge/Nest.js-%23E0234E.svg?style=for-the-badge&logo=NestJS&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%E10098.svg?style=for-the-badge&logo=GraphQL)
+![Prisma.js](https://img.shields.io/badge/Prisma.js-%2D2D2E2E.svg?style=for-the-badge&logo=Prisma)
+![MySQL](https://img.shields.io/badge/MySQL-%4479A1.svg?style=for-the-badge&logo=MySQL)
+![MongoDB](https://img.shields.io/badge/MongoDB-%47A248.svg?style=for-the-badge&logo=MongoDB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%336791.svg?style=for-the-badge&logo=PostgreSQL)
+
+## Getting Started
+
+### Prerequisites
+
+Ensure you have the following installed on your machine:
+
+- [Node.js](https://nodejs.org/) (version 14 or higher)
+- [Yarn](https://yarnpkg.com/) (optional, but recommended)
+
+### Installation
+
+1. Clone the repository:
+
+   - git clone https://github.com/yourusername/coin-flip.git
+   - cd coin-flip
+   - npm install
+   - npm start
+   - Open your browser and navigate to http://localhost:3000 to access the Coin Flip application.
+
+
