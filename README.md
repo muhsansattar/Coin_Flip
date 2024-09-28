@@ -1,4 +1,6 @@
-# Coin Flip
+## My Project
+
+## Coin Flip
 
 Coin Flip is a **decentralized multiplayer blockchain game**, in which users must bet more than $5 of testnet BNB to be able to play against each other. You can create your own game (you can set a bet as big as you want) and other people will be able to join the game you have created. Users can also join any available games created by other people. After the game is finished winner gets the prize. 
 
